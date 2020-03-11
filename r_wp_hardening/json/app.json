@@ -1,0 +1,254 @@
+{
+  "id": "5e6675f9811cda6179621955",
+  "name": "WordPress Hardening",
+  "prefs": {
+    "permissionLevel": "public",
+    "background": "purple",
+    "backgroundTile": false,
+    "backgroundBrightness": "dark",
+    "backgroundColor": "#89609E"
+  },
+  "cards": [
+    {
+      "id": "5e667680b6285814944194d9",
+      "name": "Files and Folder Permission",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e68fd9f26163e04bfb95f7c",
+      "pos": 1
+    },
+    {
+      "id": "5e6676aa5319df28e54015b7",
+      "name": "Strong Passwords",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e68fd9f26163e04bfb95f7c",
+      "pos": 2
+    },
+    {
+      "id": "5e6676c3a931387cee126781",
+      "name": "Disable Trackbacks",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e68fd9f26163e04bfb95f7c",
+      "pos": 3
+    },
+    {
+      "id": "5e667727f280ba0c20460757",
+      "name": "Remove or Password Protect  phpMyAdmin, Adminer, etc",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e68fd9f26163e04bfb95f7c",
+      "pos": 4
+    },
+    {
+      "id": "5e6677488f02dd231c3bec2c",
+      "name": "Google reCAPTCHA",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e68fd9f26163e04bfb95f7c",
+      "pos": 5
+    },
+    {
+      "id": "5e66775ad93df628585eea70",
+      "name": "Disable rel=\"nofollow\"",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e68fd9f26163e04bfb95f7c",
+      "pos": 6
+    },
+    {
+      "id": "5e667774855d1212beaa141a",
+      "name": "Caching - Local or Cloudflare",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e68fd9f26163e04bfb95f7c",
+      "pos": 7
+    },
+    {
+      "id": "5e66779444feac1ced68192f",
+      "name": "Regular DB Backup (Incremental is better)",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e68fd9f26163e04bfb95f7c",
+      "pos": 8
+    },
+    {
+      "id": "5e672fd8f65a440cd0561558",
+      "name": "Test: PageSpeed / Lighthouse",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e6676375dcbf00c951bf5d0",
+      "pos": 1
+    },
+    {
+      "id": "5e672fe7fb16d038a676e953",
+      "name": "Test: sitecheck.sucuri.net Scanner",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e6676375dcbf00c951bf5d0",
+      "pos": 2
+    },
+    {
+      "id": "5e672ff775605c59793dbb8b",
+      "name": "Test: securityheaders.com Scanner",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e6676375dcbf00c951bf5d0",
+      "pos": 3
+    },
+    {
+      "id": "5e67300c4eca965958178e57",
+      "name": "Test: hstspreload.org Scan & Submit",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e6676375dcbf00c951bf5d0",
+      "pos": 4
+    },
+    {
+      "id": "5e67301e1c87c32a11ea26a7",
+      "name": "Test: WPScan",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e6676375dcbf00c951bf5d0",
+      "pos": 5
+    },
+    {
+      "id": "5e68fd2561c0e9793f6447d1",
+      "name": "Disable 'shortlink'",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e66763e6da98407ad54113d",
+      "pos": 1
+    },
+    {
+      "id": "5e68fd4102b66d40b73ce7c4",
+      "name": "Enable 'Content-Dispositions' on nginx",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e66763e6da98407ad54113d",
+      "pos": 2
+    },
+    {
+      "id": "5e68fd5cce1432896782fa3c",
+      "name": "wget",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e66763e6da98407ad54113d",
+      "pos": 3
+    },
+    {
+      "id": "5e68fd7cd3dfad8a934b5c98",
+      "name": "Fix Paths (sed)",
+      "closed": false,
+      "desc": "",
+      "descData": null,
+      "idBoard": "5e6675f9811cda6179621955",
+      "idList": "5e66763e6da98407ad54113d",
+      "pos": 4
+    }
+  ],
+  "lists": [
+    {
+      "id": "5e68fd9f26163e04bfb95f7c",
+      "name": "Basic Todo",
+      "closed": false,
+      "idBoard": "5e6675f9811cda6179621955",
+      "pos": 1,
+      "subscribed": null
+    },
+    {
+      "id": "5e6676375dcbf00c951bf5d0",
+      "name": "Dynamic-site Todo",
+      "closed": false,
+      "idBoard": "5e6675f9811cda6179621955",
+      "pos": 2,
+      "subscribed": null
+    },
+    {
+      "id": "5e66763e6da98407ad54113d",
+      "name": "Static-site Todo",
+      "closed": false,
+      "idBoard": "5e6675f9811cda6179621955",
+      "pos": 3,
+      "subscribed": null
+    },
+    {
+      "id": "5e667601058c9f51eecba101",
+      "name": "Doing",
+      "closed": false,
+      "idBoard": "5e6675f9811cda6179621955",
+      "pos": 4,
+      "subscribed": null
+    },
+    {
+      "id": "5e66760376f7fb0c2558cd51",
+      "name": "Done",
+      "closed": false,
+      "idBoard": "5e6675f9811cda6179621955",
+      "pos": 5,
+      "subscribed": null
+    }
+  ],
+  "checklists": [
+    {
+      "id": "5e667687e3609c117cc547f2",
+      "name": "Checklist",
+      "idBoard": "5e6675f9811cda6179621955",
+      "idCard": "5e667680b6285814944194d9",
+      "pos": 1,
+      "checkItems": [
+        {
+          "idChecklist": "5e667687e3609c117cc547f2",
+          "state": "incomplete",
+          "idMember": null,
+          "id": "5e66768f3a360522b9ff8d61",
+          "name": "Files with 644",
+          "nameData": null,
+          "pos": 1
+        },
+        {
+          "idChecklist": "5e667687e3609c117cc547f2",
+          "state": "incomplete",
+          "idMember": null,
+          "id": "5e667695b0b89560e9690c89",
+          "name": "Folders with 755",
+          "nameData": null,
+          "pos": 2
+        }
+      ]
+    }
+  ]
+}

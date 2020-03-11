@@ -1,0 +1,25 @@
+{
+	"id": "r_wp_hardening",
+	"uuid": "",
+	"name": "WordPress Hardening",
+	"description": "Adds ready to use WordPress hardening todos",
+	"author": "Rajesh",
+	"author_email": "info@restya.com",
+	"author_url": "https://github.com/rrjanbiah/board-apps/tree/dev/r_wp_hardening",
+	"version": "0.1.1",
+	"price": "Free",
+	"icon": "apps/r_wp_hardening/img/r-wp-hardening.png",
+	"settings_description": "",
+	"large_description": [
+		"This app creates a new board and imports readymade WordPress hardening todos for any WordPress installations and instances."
+	],
+	"settings": false,
+	"assets": {
+		"css": [
+		],
+		"js": [
+			"apps/r_wp_hardening/js/app.js"
+		]
+	},
+	"enabled": true
+}
